@@ -47,10 +47,6 @@ I create content on **DSA**, **Web Development**,
 ---
 ⭐ **If you find my work helpful, consider starring my repos!**
 ```
-
----
-
-**For the short GitHub bio field (160 chars max):**
-```
+ 
 Full-stack dev | MERN + DSA in Java | Building @codes.on.notes 
 | Learning AI/ML | Creating DSA & web dev content 📸 insta: @codes.on.notes
